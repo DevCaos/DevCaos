@@ -15,5 +15,5 @@
   </div>
 
 <div>
-![Snake animation](https://github.com/DevCaos/DevCaos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/devcaos/devcaos/blob/output/github-contribution-grid-snake.svg)
  </div>
